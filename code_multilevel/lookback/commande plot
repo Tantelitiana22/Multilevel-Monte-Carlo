@@ -1,0 +1,4 @@
+ plot "multi0.dat" w lp ps 4 pt 5 lt 1 ,"multi1.dat" w lp ps 4 pt 4 lt 6
+
+plot "meanY_val.dat" w lp pt 3 lt 5,"mean.dat" w lp pt 3 lt 4, "meanPl.dat" w lp pt 3 lt 3
+
